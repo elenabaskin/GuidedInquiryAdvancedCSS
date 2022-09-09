@@ -1,0 +1,63 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  font-size: 2rem;
+  background-color: #ffffd1;
+  text-align: center;
+  font-family: "Jost", sans-serif;
+  color: #ffabab;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+.section-one,
+.section-two {
+  display: flex;
+  justify-content: center;
+}
+
+.item-info {
+  flex-wrap: wrap;
+}
+
+figure {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  object-fit: contain;
+}
+
+.item-info {
+  font-family: "Jost", sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.2rem;
+  color: #ffbebc;
+  background-color: #ffffed;
+}
+
+.price {
+  font-size: 0.8rem;
+}
+
+a {
+  text-decoration: none;
+  color: #ffabab;
+  background-color: #ffffd1;
+  border: 1px solid #ffabab;
+  padding: 5px;
+}
