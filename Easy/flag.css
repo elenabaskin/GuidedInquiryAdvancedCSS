@@ -4,8 +4,8 @@ body {
 }
 
 img {
-  height: 25%;
-  width: 25%;
+  height: 80%;
+  width: 30%;
   position: relative;
   float: left;
 }
@@ -18,14 +18,16 @@ table {
 }
 
 .shorter {
-  width: 75%;
-  height: 35px;
+  width: 70%;
+  height: 245px;
+  float: right;
 }
 
 .longer {
   width: 100%;
-  height: 35px;
+  height: 205px;
 }
+
 .red {
   background-color: red;
 }
