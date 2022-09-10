@@ -4,28 +4,28 @@ body {
 }
 
 img {
-  height: 80%;
-  width: 30%;
-  position: relative;
+  height: 18vh;
+  width: 40vw;
+  position: fixed;
   float: left;
 }
 
 table {
-  height: 456px;
-  width: 800px;
+  height: 100vh;
+  width: 100vw;
   position: relative;
   padding-right: "images-width";
 }
 
 .shorter {
-  width: 70%;
-  height: 245px;
+  width: 60vw;
+  height: 18vh;
   float: right;
 }
 
 .longer {
-  width: 100%;
-  height: 205px;
+  width: 100vw;
+  height: 18vh;
 }
 
 .red {
